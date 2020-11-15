@@ -8,68 +8,28 @@ In the modern life, we tend to ignore the nutritional balance in our daily diet.
 
 
 ## Background
+I want to solve the following problem:
+"Eating only what you like and having an unbalanced nutrition".
+It is important to have balanced nutrition for living long healthy.
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+In advance, the system needs to be installed in a device such as smartphone and tablet so that the system gather information about our nutritional balance in our diet from pictures of our meal taken by such devices.
+At first, we take a picture of our meal when we eat something, from daily diet to snacking. Then, system will calculate the value of nutrition included in the meal, and suggest a meal menu that is tailored to the rest of the mutritional balance we should be consuming that day.
+This system will be needed by people who are living alone or who have kids.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
-
-
-## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+This system can only RECOMMEND a nutritional balanced menu. It depends on whether we practically have a diet just recommended by the system. It is needed another education for us(especially for living alone people) to have nutritional balanced diets.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+This system will be more strong by being executed with a housekeeping robots. It is difficult to deny to eat the meal made by someone else, so we can maybe have nutritional balanced diets letting robots make meals that are recommended by the system.
 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+My own thoughts only
