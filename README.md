@@ -1,10 +1,10 @@
-# A-Cooking-Recipe-Recommendation-System
+# A-Diet-Menu-Recommendation-System
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+In the modern life, we tend to ignore the nutritional balance in our daily diet. The system will be able to help us by recommending a menu that balances our nutritional needs based on the data of our diet.
 
 
 ## Background
